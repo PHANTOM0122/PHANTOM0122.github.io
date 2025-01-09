@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About me
-- HY-Vision LAB, Dept. of Electronic Engineering, HANYANG University (2023.02 ~ )
+- Spatial AI LAB, Dept. of Electronic Engineering, HANYANG University (2023.02 ~ )
 - AIR LAB, Dept. of Software Convergence, KYUNGHEE University (2021.03 ~ 2023.01)
 - KyungHee University, Dept. of Software Convergence, Future Vehicle & Robot Track (2018.03. ~ Present)
 
