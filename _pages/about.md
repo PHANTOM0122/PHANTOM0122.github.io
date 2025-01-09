@@ -17,17 +17,11 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 
 ## Research Interests 📚
 
-<small>
-
 - **Geometric Computer Vision:** Visual Localization, 3D Line Geometry, Structure-from-Motion
 - **Embodied AI:** Sensor Fusion Based Perception in Robotics & Autonomous Vehicles   
 - **Spatial AI:** 3D Foundation Models, Implicit Scene Representations
 
-</small>
-
 ## News 📰
-
-<small>
 
 - **[AUg. 2024]** I have been invited to present at the poster session in Korean Conference on Computer Vision (KCCV) 2024 🇰🇷 
 - **[Aug. 2024]** One paper got accepted to **BMVC 2024** 🇬🇧
@@ -37,7 +31,6 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 - **[Aug. 2023]** One paper got accepted to **IEEE Journal of Biomedical and Health Informatics (IF: 7.7)** 📄 
 - **[Jun. 2023]** I was awarded the **LG Electronics Group Best Paper Award** at the 2023 IEIE Summer Annual Conference 🏆
 
-</small>
   
 ## Education 🎓
 
@@ -61,7 +54,6 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 - Golf
 - Big fan of Doosan Bears baseball team, KBO!
 
-
-
+{% include_relative _includes/publications.md %}
 
 
