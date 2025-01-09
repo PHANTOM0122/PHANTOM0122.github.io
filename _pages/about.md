@@ -42,13 +42,11 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 - 3D Vision & SLAM -->
 
 ## Selected Projects 🚀
-- [ **3D Reconstruction with Multi-View RGB-D Images** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
+- [ **3D Reconstruction with Multi-View RGB-D Images** (Github stars: 85) ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
 - [ **KITTI360 Tutorial** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
 - [ **Turtlebot Manipulation with Optical Flow in Gazebo Simulation** ](https://github.com/PHANTOM0122/ROS_Gazebo_Simulator_with_Opticalflow)
 - [ **3D Reconstruction using Stereo Vision** ](https://github.com/PHANTOM0122/3D_Reconstruction)
 - [ **Image Style Transfer** ](https://github.com/Hyper-Vision-DeepLearning/Style-Transfer)
-- [ **BLANC** ](https://github.com/PHANTOM0122/BLANC) : Social networking service app for travelers around the world
-- [ **KHAR** ](https://github.com/PHANTOM0122/KHar) : Automous RC Car using OpenCV with Raspberry-pi 3
 
 ## Hobby
 - Golf

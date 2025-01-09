@@ -22,7 +22,7 @@ repository               : "PHANTOM0122/PHANTOM0122.github.io"
 author:
   # Biographic information
   avatar           : "HeejoonMoon.jpg"
-  name             : "HEEJOON MOON"
+  name             : # ""
   pronouns         : # example: "she/her"  
   bio              : "Geometric Computer Vision, Visual Localization, and Spatial AI"
   location         : "Seoul, South Korea"
