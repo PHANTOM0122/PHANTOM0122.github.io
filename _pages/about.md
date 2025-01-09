@@ -17,11 +17,17 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 
 ## Research Interests 📚
 
+<small>
+
 - **Geometric Computer Vision:** Visual Localization, 3D Line Geometry, Structure-from-Motion
 - **Embodied AI:** Sensor Fusion Based Perception in Robotics & Autonomous Vehicles   
 - **Spatial AI:** 3D Foundation Models, Implicit Scene Representations
 
+</small>
+
 ## News 📰
+
+<small>
 
 - **[AUg. 2024]** I have been invited to present at the poster session in Korean Conference on Computer Vision (KCCV) 2024 🇰🇷 
 - **[Aug. 2024]** One paper got accepted to **BMVC 2024** 🇬🇧
@@ -30,11 +36,13 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 - **[Aug. 2023]** I graduated **Summa Cum Laude**, ranked top 1 out of college. What an honor! 🏆🎓
 - **[Aug. 2023]** One paper got accepted to **IEEE Journal of Biomedical and Health Informatics (IF: 7.7)** 📄 
 - **[Jun. 2023]** I was awarded the **LG Electronics Group Best Paper Award** at the 2023 IEIE Summer Annual Conference 🏆
+
+</small>
   
 ## Education 🎓
 
-- [Integrated MS-PhD] Hanyang university, Dept. of Ariticial Intelligence (2023.09 ~ Present)
-- [B.S] KyungHee university, Dept. of Software Convergence, Robot & Vision Track (2018.03. ~ 2023.08)
+- [Integrated MS-PhD] Hanyang university, Dept. of Artificial Intelligence (2023.09 ~ Present)
+- [BS] KyungHee university, Dept. of Software Convergence, Robot & Vision Track (2018.03. ~ 2023.08)
 
 <!-- ## I'm currently working & studying 
 - Privacy-Preserving Localization
@@ -53,10 +61,8 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 - Golf
 - Big fan of Doosan Bears baseball team, KBO!
 
+{% include_relative _includes/publications.md %}
 
-## Contacts
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilko97@khu.ac.kr)](mailto:wilko97@khu.ac.kr)
-- [ **My Blog** ](https://velog.io/@wilko97) 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PHANTOM0122&show_icons=true&theme=radical)
+
 
