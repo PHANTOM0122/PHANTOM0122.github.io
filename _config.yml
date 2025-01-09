@@ -21,7 +21,7 @@ repository               : "PHANTOM0122/PHANTOM0122.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/HeejoonMoon.jpg"
+  avatar           : "/images/HeejoonMoon.jpg"
   name             : "HEEJOON MOON"
   pronouns         : # example: "she/her"  
   bio              : "Geometric Computer Vision, Visual Localization, and SpatialAI"
