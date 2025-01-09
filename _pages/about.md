@@ -42,21 +42,20 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 - 3D Vision & SLAM -->
 
 ## Selected Papers 📄
-
 ### Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds
 <img src="../images/spherecloud_generation.png" width="300" height="150"><img src="../images/spherecloud_attack.png" width="300" height="150">
 
 **Heejoon Moon**, Jongwoo Lee, Jeonggon Kim, Je Hyeong Hong  
 _British Machine Vision Conference (BMVC), 2024._  
 [PDF](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_267/paper.pdf) | [Code](https://github.com/PHANTOM0122/Sphere-cloud)
-
+-----------------------------------
 ### Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds 
 <img src="../images/Raycloud1.png" width="300" height="150"><img src="../images/Raycloud2.png" width="300" height="150">
 
 **Heejoon Moon**, Chungwhan Lee, Je Hyeong Hong  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024._  
 [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_Efficient_Privacy-Preserving_Visual_Localization_Using_3D_Ray_Clouds_CVPR_2024_paper.pdf) | [Code](https://github.com/PHANTOM0122/Ray-cloud)
-
+-----------------------------------
 ### Generative Perturbation Network for Universal Adversarial Attacks on Brain-Computer Interfaces 
 <img src="../images/GPN.jpg" width="300" height="150">
 
