@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me 👨‍💻
-👋 Hi there, I'm Heejoon. Thanks for visiting my website! ✨ </br> 
+👋 Hi there, I'm Heejoon. Thanks for visiting my website! ✨ 
  
 I'm a 2nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI Lab](https://www.sailab.kr/
 ) (Advisor: Prof. [Je Hyeong Hong](https://zrr.kr/YkZK)).     
@@ -40,7 +40,7 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 - Privacy-Preserving Localization
 - 3D Vision & SLAM -->
 
-## Selected Projects
+## Selected Projects 🚀
 - [ **3D Reconstruction with Multi-View RGB-D Images** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
 - [ **KITTI360 Tutorial** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
 - [ **Turtlebot Manipulation with Optical Flow in Gazebo Simulation** ](https://github.com/PHANTOM0122/ROS_Gazebo_Simulator_with_Opticalflow)
