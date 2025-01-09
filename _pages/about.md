@@ -58,7 +58,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024._
 [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_Efficient_Privacy-Preserving_Visual_Localization_Using_3D_Ray_Clouds_CVPR_2024_paper.pdf) | [Code](https://github.com/PHANTOM0122/Ray-cloud)
 
 ### Generative Perturbation Network for Universal Adversarial Attacks on Brain-Computer Interfaces 
-<img src="../images/GPN.jpg" height="150">
+<img src="../images/GPN.jpg" width="300" height="150">
 
 Jiyoung Jung, **Heejoon Moon**, Geunhyeok Yu, Hyoseok Hwang  
 _IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS_  
