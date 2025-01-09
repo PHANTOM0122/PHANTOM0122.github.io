@@ -49,7 +49,7 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 _British Machine Vision Conference (BMVC), 2024._  
 [PDF](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_267/paper.pdf) | [Code](https://github.com/PHANTOM0122/Sphere-cloud)
 
------------------------------------
+---
 
 ### Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds 
 <img src="../images/Raycloud1.png" width="300" height="150"><img src="../images/Raycloud2.png" width="300" height="150">
@@ -58,7 +58,7 @@ _British Machine Vision Conference (BMVC), 2024._
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024._  
 [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_Efficient_Privacy-Preserving_Visual_Localization_Using_3D_Ray_Clouds_CVPR_2024_paper.pdf) | [Code](https://github.com/PHANTOM0122/Ray-cloud)
 
------------------------------------
+---
 
 ### Generative Perturbation Network for Universal Adversarial Attacks on Brain-Computer Interfaces 
 <img src="../images/GPN.jpg" width="400" height="200">
@@ -68,7 +68,7 @@ _IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS_
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10213992) | [Code](https://github.com/AIRLABkhu/Generative-Perturbation-Networks)
 
 ## Selected Projects 🚀
-- [ **3D Reconstruction with Multi-View RGB-D Images** (Github stars: 85) ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
+- [**3D Reconstruction with Multi-View RGB-D Images**](https://github.com/PHANTOM0122/3D_Object_Reconstruction) (Github stars: 85)
 - [ **KITTI360 Tutorial** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
 - [ **Turtlebot Manipulation with Optical Flow in Gazebo Simulation** ](https://github.com/PHANTOM0122/ROS_Gazebo_Simulator_with_Opticalflow)
 - [ **3D Reconstruction using Stereo Vision** ](https://github.com/PHANTOM0122/3D_Reconstruction)
