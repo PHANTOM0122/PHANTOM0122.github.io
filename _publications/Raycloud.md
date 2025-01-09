@@ -3,11 +3,11 @@ title: "Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds"
 collection: publications
 category: conferences
 permalink: /publication/Raycloud
-excerpt: "<img src='../images/Raycloud1.png' width='400' height='200'> <img src='../images/Raycloud2.png' width='400' height='200'>"
+excerpt: "<img src='../images/Raycloud1.png' width='300' height='150'> <img src='../images/Raycloud2.png' width='300' height='150'>"
 date: 2024-06-25
 venue: '2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_Efficient_Privacy-Preserving_Visual_Localization_Using_3D_Ray_Clouds_CVPR_2024_paper.pdf'
-citation: 'H. Moon et al. (2024). &quot;Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds &quot; <i>In proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) </i>. 1(3).'
+# citation: 'H. Moon et al. (2024). &quot;Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds &quot; <i>In proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) </i>. 1(3).'
 ---
 
 # [CVPR 2024] Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds
@@ -17,6 +17,11 @@ citation: 'H. Moon et al. (2024). &quot;Efficient Privacy-Preserving Visual Loca
 <br/>
 **Authors:** [Heejoon Moon](https://github.com/PHANTOM0122), [Chunghwan Lee](https://github.com/Fusroda-h), [Je Hyeong Hong](https://sites.google.com/view/hyvision)
 
+<iframe width="640" height="480" 
+  src="https://www.youtube.com/embed/oECeygDJ5rY" 
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 <img src="../images/Raycloud1.png" width="300" height="150"> <img src="../images/Raycloud2.png" width="300" height="150">
 

@@ -7,7 +7,7 @@ excerpt: '<img src="../images/spherecloud_generation.png" width="400" height="20
 date: 2024-11-25
 venue: 'British Machine Vision Conference 2024 (BMVC 2024)'
 paperurl: 'https://bmva-archive.org.uk/bmvc/2024/papers/Paper_267/paper.pdf'
-citation: 'H. Moon et al. (2024). &quot;Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds 3.&quot; <i>In proceedings of British Machine Vision Conference (BMVC 2024) </i>. 1(3).'
+# citation: 'H. Moon et al. (2024). &quot;Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds 3.&quot; <i>In proceedings of British Machine Vision Conference (BMVC 2024) </i>. 1(3).'
 ---
 
 # Sphere-cloud
