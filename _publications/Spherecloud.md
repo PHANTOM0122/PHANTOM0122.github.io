@@ -3,7 +3,7 @@ title: "Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clou
 collection: publications
 category: conferences
 permalink: /publication/Spherecloud
-excerpt: 'Depth-guided Localization, Minimal Solvers for Visual Localization, 3D Line Geometry'
+excerpt: '<img src="../images/spherecloud_generation.png" width="400" height="200"> <img src="../images/spherecloud_attack.png" width="400" height="200">'
 date: 2024-11-25
 venue: 'British Machine Vision Conference 2024 (BMVC 2024)'
 paperurl: 'https://bmva-archive.org.uk/bmvc/2024/papers/Paper_267/paper.pdf'

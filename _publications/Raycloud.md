@@ -3,7 +3,7 @@ title: "Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds"
 collection: publications
 category: conferences
 permalink: /publication/Raycloud
-excerpt: 'Privacy-Preserving Visual Localization, 3D Line Geometry, Non-parametric Optimization, Scene Inversion'
+excerpt: '<img src="../images/Raycloud1.png" width="400" height="200"> <img src="../images/Raycloud2.png" width="400" height="200">'
 date: 2024-06-25
 venue: '2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_Efficient_Privacy-Preserving_Visual_Localization_Using_3D_Ray_Clouds_CVPR_2024_paper.pdf'

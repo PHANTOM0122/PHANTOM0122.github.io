@@ -54,6 +54,4 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
 - Golf
 - Big fan of Doosan Bears baseball team, KBO!
 
-{% include_relative _includes/publications.md %}
-
 
