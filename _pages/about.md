@@ -34,30 +34,33 @@ Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http:
   
 ## Education 🎓
 
-- [Integrated MS-PhD] Hanyang university, Dept. of Artificial Intelligence (2023.09 ~ Present)
-- [BS] KyungHee university, Dept. of Software Convergence, Robot & Vision Track (2018.03. ~ 2023.08)
+- [**Integrated MS-PhD**] Hanyang university, Dept. of Artificial Intelligence (2023.09 ~ Present)
+- [**BS**] KyungHee university, Dept. of Software Convergence, Robot & Vision Track (2018.03. ~ 2023.08)
 
 <!-- ## I'm currently working & studying 
 - Privacy-Preserving Localization
 - 3D Vision & SLAM -->
 
-## Selected Papers 🚀
+## Selected Papers 📄
 
 ### Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds
-<img src="../images/spherecloud_generation.png" width="300" height="150"><img src="../images/spherecloud_attack.png" width="300" height="150"></br>
-**Heejoon Moon, Jongwoo Lee, Jeonggon Kim, Je Hyeong Hong**  
+<img src="../images/spherecloud_generation.png" width="300" height="150"><img src="../images/spherecloud_attack.png" width="300" height="150">
+
+**Heejoon Moon**, Jongwoo Lee, Jeonggon Kim, Je Hyeong Hong  
 _British Machine Vision Conference (BMVC), 2024._  
 [PDF](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_267/paper.pdf) | [Code](https://github.com/PHANTOM0122/Sphere-cloud)
 
 ### Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds 
-<img src="../images/Raycloud1.png" width="300" height="150"><img src="../images/Raycloud2.png" width="300" height="150"></br>
-**Heejoon Moon, Chungwhan Lee, Je Hyeong Hong**  
+<img src="../images/Raycloud1.png" width="300" height="150"><img src="../images/Raycloud2.png" width="300" height="150">
+
+**Heejoon Moon**, Chungwhan Lee, Je Hyeong Hong  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024._  
 [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_Efficient_Privacy-Preserving_Visual_Localization_Using_3D_Ray_Clouds_CVPR_2024_paper.pdf) | [Code](https://github.com/PHANTOM0122/Ray-cloud)
 
 ### Generative Perturbation Network for Universal Adversarial Attacks on Brain-Computer Interfaces 
-<img src="../images/GPN.jpg" height="150"></br>
-**Jiyoung Jung, **Heejoon Moon**, Geunhyeok Yu, Hyoseok Hwang**  
+<img src="../images/GPN.jpg" height="150">
+
+Jiyoung Jung, **Heejoon Moon**, Geunhyeok Yu, Hyoseok Hwang  
 _IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS_  
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10213992) | [Code](https://github.com/AIRLABkhu/Generative-Perturbation-Networks)
 
