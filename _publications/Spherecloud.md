@@ -3,25 +3,25 @@ title: "Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clou
 collection: publications
 category: conferences
 permalink: /publication/Spherecloud
-excerpt: '# Depth-guided Localization # Minimal Solvers for Visual Localization, # 3D Line Geometry'
+excerpt: 'Depth-guided Localization, Minimal Solvers for Visual Localization, 3D Line Geometry'
 date: 2024-11-25
 venue: 'British Machine Vision Conference 2024 (BMVC 2024)'
 paperurl: 'https://bmva-archive.org.uk/bmvc/2024/papers/Paper_267/paper.pdf'
-citation: 'H. Moon et al. (2024). &quot;Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds 3.&quot; <i>In proceedings of 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) </i>. 1(3).'
+citation: 'H. Moon et al. (2024). &quot;Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds 3.&quot; <i>In proceedings of British Machine Vision Conference (BMVC 2024) </i>. 1(3).'
 ---
 
 # Sphere-cloud
 ## [BMVC 2024] Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Cloud
-**Authors:** Heejoon Moon, Jongwoo Lee, Jeonggon Kim, [Je Hyeong Hong](https://sites.google.com/view/hyvision)
+**Authors:** **Heejoon Moon**, Jongwoo Lee, Jeonggon Kim, [Je Hyeong Hong](https://sites.google.com/view/hyvision)
 
 **[[Paper](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_267/paper.pdf)][[Project Page](https://bmvc2024.org/proceedings/267/)]** 
 <!-- [[Code](https://github.com/PHANTOM0122/Sphere-cloud)] -->
 
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="../images/spherecloud1.mp4" type="video/mp4">
   동영상을 재생할 수 없습니다.
 </video>
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="../images/spherecloud2.mp4" type="video/mp4">
   동영상을 재생할 수 없습니다.
 </video>
