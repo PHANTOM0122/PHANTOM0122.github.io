@@ -21,13 +21,13 @@ repository               : "PHANTOM0122/PHANTOM0122.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/HeejoonMoon.jpg"
+  avatar           : "HeejoonMoon.jpg"
   name             : "HEEJOON MOON"
   pronouns         : # example: "she/her"  
   bio              : "Geometric Computer Vision, Visual Localization, and SpatialAI"
   location         : "Seoul, South Korea"
   employer         : "Spatial AI Lab, Hanyang University"
-  uri              : "https://sites.google.com/view/hyvision"
+  uri              : #
   email            : "wilko97@hanyang.ac.kr" 
 
   # Academic websites
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Heejoon Moon"
+  linkedin         : "heejoon-moon-8063b6184"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
