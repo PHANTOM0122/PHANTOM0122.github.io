@@ -11,9 +11,7 @@ redirect_from:
 👋 Hi there, I'm Heejoon. Thanks for visiting my website! ✨ 
  
 I'm a 2nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI Lab](https://www.sailab.kr/
-) (Advisor: Prof. [Je Hyeong Hong](https://zrr.kr/YkZK)).     
-Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http://airlab.khu.ac.kr/
-), advised by Prof. [Hyosoek Hwang](https://zrr.kr/OzVb) at KyungHee University.     
+) (Advisor: Prof. [Je Hyeong Hong](https://zrr.kr/YkZK)). Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http://airlab.khu.ac.kr/), advised by Prof. [Hyosoek Hwang](https://zrr.kr/OzVb) at KyungHee University.
 
 ## Research Interests 📚
 
@@ -68,11 +66,19 @@ _IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS_
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10213992) | [Code](https://github.com/AIRLABkhu/Generative-Perturbation-Networks)
 
 ## Selected Projects 🚀
-- [**3D Reconstruction with Multi-View RGB-D Images**](https://github.com/PHANTOM0122/3D_Object_Reconstruction) (Github stars: 85)
-- [ **KITTI360 Tutorial** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
-- [ **Turtlebot Manipulation with Optical Flow in Gazebo Simulation** ](https://github.com/PHANTOM0122/ROS_Gazebo_Simulator_with_Opticalflow)
-- [ **3D Reconstruction using Stereo Vision** ](https://github.com/PHANTOM0122/3D_Reconstruction)
-- [ **Image Style Transfer** ](https://github.com/Hyper-Vision-DeepLearning/Style-Transfer)
+[**3D Reconstruction with Multi-View RGB-D Images**](https://github.com/PHANTOM0122/3D_Object_Reconstruction) (Github stars: 85)
+
+<img src="../images/3Drecon_2.gif" width="200" height="150"><img src="../images/3Drecon_2_pcd.gif" width="200" height="150">
+
+[ **KITTI360 Tutorial** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
+
+<img src="../images/kitti360_2.gif" width="120" height="80"> <img src="../images/kitti360_1.gif" width="515" height="80"> 
+
+[ **Turtlebot Manipulation with Optical Flow in Gazebo Simulation** ](https://github.com/PHANTOM0122/ROS_Gazebo_Simulator_with_Opticalflow)
+
+[ **3D Reconstruction using Stereo Vision** ](https://github.com/PHANTOM0122/3D_Reconstruction)
+
+[ **Image Style Transfer** ](https://github.com/Hyper-Vision-DeepLearning/Style-Transfer)
 
 ## Hobby
 - Golf
