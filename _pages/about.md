@@ -39,6 +39,19 @@ I'm a 2nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI La
 - Privacy-Preserving Localization
 - 3D Vision & SLAM -->
 
+## Working Experiences 🧑‍💼
+<table>
+  <tr>
+    <td style="border: none; padding-right: 20px;">
+      <img src="image.png" width="150">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <strong>[Hyundai Rotem]</strong> Computer Vision Research Intern (2025.07 ~ 2025.08)
+    </td>
+  </tr>
+</table>
+
+
 ## Selected Papers 📄
 ### Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds
 <img src="../images/spherecloud_generation.png" width="300" height="150"><img src="../images/spherecloud_attack.png" width="300" height="150">
