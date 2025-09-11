@@ -17,11 +17,12 @@ I'm a 2nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI La
 
 - **Geometric Computer Vision:** Visual Localization, 3D Line Geometry, Structure-from-Motion
 - **Embodied AI:** Sensor Fusion Based Perception in Robotics & Autonomous Vehicles   
-- **Spatial AI:** 3D Foundation Models, Implicit Scene Representations
+- **Spatial AI:** End-to-End Camera & LiDAR Localization 
 
 ## News 📰
-
-- **[AUg. 2024]** I have been invited to present at the poster session in Korean Conference on Computer Vision (KCCV) 2024 🇰🇷 
+- **[Sep. 2025]** I've been invited as a conference reviewer of **3DV 2026**!
+- **[Jul. 2025]** I've accepted an internship at Hyundai Rotem as a research intern (3D Computer Vision)
+- **[Aug. 2024]** I have been invited to present at the poster session in Korean Conference on Computer Vision (KCCV) 2024 🇰🇷 
 - **[Aug. 2024]** One paper got accepted to **BMVC 2024** 🇬🇧
 - **[Feb. 2024]** One paper got accepted to **CVPR 2024** 🇺🇸
 - **[Aug. 2024]** Started Integrated MS-PhD journey at the Hanyang University [Spatial AI Lab](https://www.sailab.kr/) 🎓
