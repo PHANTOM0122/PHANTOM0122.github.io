@@ -26,17 +26,17 @@ I'm a 3nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI La
 
 <details>
   <summary><strong>More news</strong></summary>
-
-- **[Sep. 2025]** I'll serve as a conference reviewer of **3DV 2026**!
-- **[Jul. 2025]** I've accepted an internship at Hyundai Rotem as a research intern (3D Computer Vision)
-- **[Aug. 2024]** I have been invited to present at the poster session in Korean Conference on Computer Vision (KCCV) 2024 🇰🇷 
-- **[Aug. 2024]** One paper is accepted to **BMVC 2024** 🇬🇧
-- **[Feb. 2024]** One paper is accepted to **CVPR 2024** 🇺🇸
-- **[Aug. 2024]** Started Integrated MS-PhD journey at the Hanyang University [Spatial AI Lab](https://www.sailab.kr/) 🎓
-- **[Aug. 2023]** I graduated **Summa Cum Laude**, ranked top 1 out of college. What an honor! 🏆🎓
-- **[Aug. 2023]** One paper got accepted to **IEEE Journal of Biomedical and Health Informatics (IF: 7.7)** 📄 
-- **[Jun. 2023]** I was awarded the **LG Electronics Group Best Paper Award** at the 2023 IEIE Summer Annual Conference 🏆
-
+  <ul>
+    <li><strong>[Sep. 2025]</strong> I'll serve as a conference reviewer of <strong>3DV 2026</strong>!</li>
+    <li><strong>[Jul. 2025]</strong> I've accepted an internship at Hyundai Rotem as a research intern (3D Computer Vision)</li>
+    <li><strong>[Aug. 2024]</strong> I have been invited to present at the poster session in Korean Conference on Computer Vision (KCCV) 2024 🇰🇷</li>
+    <li><strong>[Aug. 2024]</strong> One paper is accepted to <strong>BMVC 2024</strong> 🇬🇧</li>
+    <li><strong>[Feb. 2024]</strong> One paper is accepted to <strong>CVPR 2024</strong> 🇺🇸</li>
+    <li><strong>[Aug. 2024]</strong> Started Integrated MS-PhD journey at the Hanyang University <a href="https://www.sailab.kr/">Spatial AI Lab</a> 🎓</li>
+    <li><strong>[Aug. 2023]</strong> I graduated <strong>Summa Cum Laude</strong>, ranked top 1 out of college. What an honor! 🏆🎓</li>
+    <li><strong>[Aug. 2023]</strong> One paper got accepted to <strong>IEEE Journal of Biomedical and Health Informatics (IF: 7.7)</strong> 📄</li>
+    <li><strong>[Jun. 2023]</strong> I was awarded the <strong>LG Electronics Group Best Paper Award</strong> at the 2023 IEIE Summer Annual Conference 🏆</li>
+  </ul>
 </details>
 
   
@@ -58,7 +58,7 @@ I'm a 3nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI La
     <td style="border: none; vertical-align: middle;">
       <strong>[Hyundai Rotem]</strong> 3D Computer Vision Research Intern (2025.07 ~ 2025.08)
       <br>
-      <span style="font-size: 0.95em; color: #555;">Worked on 3D perception and localization pipelines for autonomous systems.</span>
+      <span style="font-size: 0.95em; color: #555;">Sensor Fusion based 3D Anomaly Detection.</span>
     </td>
   </tr>
 </table>
@@ -66,9 +66,9 @@ I'm a 3nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI La
 
 ## Selected Papers 📄
 ### Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization
-<div style="display: flex; gap: 2px; align-items: center;">
-  <img src="../images/DCL_teaser.png" height="200">
-  <img src="../images/DCL_teaser2.png" height="200">
+<div style="display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap;">
+  <img src="../images/DCL_teaser.png" style="height: 220px; width: auto; max-width: 100%;">
+  <img src="../images/DCL_teaser2.png" style="height: 220px; width: auto; max-width: 100%;">
 </div>
 
 
