@@ -67,8 +67,8 @@ I'm a 3nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI La
 ## Selected Papers 📄
 ### Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization
 <div style="display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap;">
-  <img src="../images/DCL_teaser.png" style="height: 220px; width: auto; max-width: 100%;">
-  <img src="../images/DCL_teaser2.png" style="height: 220px; width: auto; max-width: 100%;">
+  <img src="../images/DCL_teaser.png" style="height: 150px; width: auto; max-width: 100%;">
+  <img src="../images/DCL_teaser2.png" style="height: 150px; width: auto; max-width: 100%;">
 </div>
 
 
