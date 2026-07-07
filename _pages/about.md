@@ -71,7 +71,7 @@ I'm a 1st year Ph.D. student at Hanyang university, [Spatial AI Lab](https://www
 
 ### ARC-Loc: Leveraging Azimuthal Ray Convergence as a Geometric Cue for Direct Cross-View Localization
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: nowrap; margin: 0; padding: 0;">
-  <img src="../images/ARCLoc.png" style="height: 150px; width: auto; display: block; margin: 0; padding: 0;">
+  <img src="../images/ARCLoc.png" style="height: 200px; width: auto; display: block; margin: 0; padding: 0;">
 </div>
 
 Hyeongsik Kim*, Mincheol Kim*, **Heejoon Moon** and Je Hyeong Hong<br>
@@ -79,7 +79,7 @@ _European Conference on Computer Vision (ECCV), 2026_
 
 ### ReLoc: Rethinking Scene Coordinate Regression Architecture for Robust Outdoor LiDAR-based Localization
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: nowrap; margin: 0; padding: 0;">
-  <img src="../images/ReLoc.png" style="height: 200; width: auto; display: block; margin: 0; padding: 0;">
+  <img src="../images/ReLoc.png" style="height: 200px; width: auto; display: block; margin: 0; padding: 0;">
 </div>
 
 **Heejoon Moon**, Yurim Cho, and Je Hyeong Hong  
