@@ -10,7 +10,7 @@ redirect_from:
 ## About Me 👨‍💻
 👋 Hi there, I'm Heejoon. Thanks for visiting my website! ✨ 
  
-I'm a 3nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI Lab](https://www.sailab.kr/
+I'm a 1st year Ph.D. student at Hanyang university, [Spatial AI Lab](https://www.sailab.kr/
 ) (Advisor: Prof. [Je Hyeong Hong](https://zrr.kr/YkZK)). Previously, I was an undergraduate researcher at [AIR (AI & Robotics) Lab](http://airlab.khu.ac.kr/), advised by Prof. [Hyosoek Hwang](https://zrr.kr/OzVb) at KyungHee University.
 
 ## Research Interests 📚
@@ -20,6 +20,9 @@ I'm a 3nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI La
 - **Spatial AI:** Camera & LiDAR Localization, Scene Coordinate Regression
 
 ## News 📰
+ - **[Jun. 2026]** One paper is accpeted to **ECCV 2026**! 🇸🇪
+ - **[Jun. 2026]** One paper is accpeted to **IROS 2026**! 🇺🇸
+ - **[Apr. 2026]** Our paper has been selected for an **Oral Presentation and Award Candidate** (Top 0.89\% of accepted papers) at CVPR 2026!
  - **[Feb. 2026]** I'll serve as a conference reviewer of **ECCV 2026**
  - **[Feb. 2026]** One paper is accpeted to **CVPR 2026**! 🇺🇸
  - **[Nov. 2025]** I'll serve as a conference reviewer of **CVPR 2026**!
@@ -65,6 +68,24 @@ I'm a 3nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI La
 
 
 ## Selected Papers 📄
+
+### ARC-Loc: Leveraging Azimuthal Ray Convergence as a Geometric Cue for Direct Cross-View Localization
+<div style="display: flex; gap: 2px; align-items: center; flex-wrap: nowrap; margin: 0; padding: 0;">
+  <img src="../images/ARCLoc.png" style="height: 150px; width: auto; display: block; margin: 0; padding: 0;">
+</div>
+
+Hyeongsik Kim*, Mincheol Kim*, **Heejoon Moon** and Je Hyeong Hong<br>
+_European Conference on Computer Vision (ECCV), 2026_
+
+### ReLoc: Rethinking Scene Coordinate Regression Architecture for Robust Outdoor LiDAR-based Localization
+<div style="display: flex; gap: 2px; align-items: center; flex-wrap: nowrap; margin: 0; padding: 0;">
+  <img src="../images/ReLoc.png" style="height: 200; width: auto; display: block; margin: 0; padding: 0;">
+</div>
+
+**Heejoon Moon**, Yurim Cho, and Je Hyeong Hong  
+_IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026._
+
+
 ### Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: nowrap; margin: 0; padding: 0;">
   <img src="../images/DCL_teaser.png" style="height: 150px; width: auto; display: block; margin: 0; padding: 0;">
@@ -73,7 +94,9 @@ I'm a 3nd-year Integrated MS-Ph.D. student at Hanyang university, [Spatial AI La
 
 
 Jeonggon Kim, **Heejoon Moon**, Je Hyeong Hong  
-_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026._
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), <span style="color: red;"><strong>ORAL presentation</strong></span>, 2026._
+
+[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Revisiting_Geometric_Obfuscation_with_Dual_Convergent_Lines_for_Privacy-Preserving_Image_CVPR_2026_paper.pdf) | [Code](https://github.com/SpatialAILab/DCL-privacy-preserving-visual-localization)
 
 ---
 
