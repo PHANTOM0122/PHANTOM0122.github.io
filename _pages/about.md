@@ -80,6 +80,9 @@ _European Conference on Computer Vision (ECCV), 2026_
 ### ReLoc: Rethinking Scene Coordinate Regression Architecture for Robust Outdoor LiDAR-based Localization
 <div style="display: flex; gap: 2px; align-items: center; flex-wrap: nowrap; margin: 0; padding: 0;">
   <img src="../images/ReLoc.png" style="height: 200px; width: auto; display: block; margin: 0; padding: 0;">
+  <video controls style="height: 200px; width: auto; display: block; margin: 0; padding: 0;">
+    <source src="../images/ReLoc_IROS.mp4" type="video/mp4">
+  </video>
 </div>
 
 **Heejoon Moon**, Yurim Cho, and Je Hyeong Hong  
@@ -95,7 +98,6 @@ _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 202
 
 Jeonggon Kim, **Heejoon Moon**, Je Hyeong Hong  
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), <span style="color: red;"><strong>ORAL presentation</strong></span>, 2026._
-
 [PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Revisiting_Geometric_Obfuscation_with_Dual_Convergent_Lines_for_Privacy-Preserving_Image_CVPR_2026_paper.pdf) | [Code](https://github.com/SpatialAILab/DCL-privacy-preserving-visual-localization)
 
 ---
