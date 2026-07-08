@@ -97,7 +97,7 @@ _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 202
 
 
 Jeonggon Kim, **Heejoon Moon**, Je Hyeong Hong  
-_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), <span style="color: red;"><strong>ORAL presentation</strong></span>, 2026._
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), <span style="color: red;"><strong>ORAL presentation</strong></span>, 2026._<br>
 [PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Revisiting_Geometric_Obfuscation_with_Dual_Convergent_Lines_for_Privacy-Preserving_Image_CVPR_2026_paper.pdf) | [Code](https://github.com/SpatialAILab/DCL-privacy-preserving-visual-localization)
 
 ---
